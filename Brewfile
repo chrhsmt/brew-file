@@ -1,3 +1,4 @@
+cask_args appdir: '/Applications'
 
 # tap repositories and their packages
 
