@@ -165,6 +165,9 @@ tap homebrew/versions
 tap rcmdnk/file
 brew brew-file
 
+# Other Homebrew packages
+brew golang
+
 # App Store applications
 appstore 836505650 Battery Monitor (2.4)
 appstore 406056744 Evernote (6.10)
