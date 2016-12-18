@@ -125,6 +125,7 @@ brew postgresql
 brew pstree
 brew python
 brew python3
+brew qt5 --with-qtwebkit
 brew rbenv
 brew readline
 brew ruby-build
