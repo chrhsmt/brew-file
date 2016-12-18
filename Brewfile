@@ -50,6 +50,7 @@ brew cctools-headers
 brew cmake
 brew curl
 brew docker
+brew doxygen
 brew eigen
 brew elixir
 brew erlang
@@ -124,7 +125,6 @@ brew postgresql
 brew pstree
 brew python
 brew python3
-brew qt5
 brew rbenv
 brew readline
 brew ruby-build
