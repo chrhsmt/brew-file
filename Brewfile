@@ -170,6 +170,9 @@ brew brew-file
 # Other Homebrew packages
 brew golang
 
+# Cask applications
+cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
+
 # App Store applications
 appstore 836505650 Battery Monitor (2.4)
 appstore 406056744 Evernote (6.10)
