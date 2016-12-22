@@ -28,6 +28,7 @@ cask unity
 cask virtualbox
 cask vlc
 cask wireshark
+cask xld
 cask xquartz
 
 tap homebrew/binary
@@ -43,6 +44,7 @@ brew autoconf
 brew automake
 brew autopano-sift-c
 brew aws-elasticbeanstalk
+brew awscli
 brew bdw-gc
 brew bison
 brew cairo
