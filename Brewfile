@@ -130,6 +130,7 @@ brew python3
 brew qt5 --with-qtwebkit
 brew rbenv
 brew readline
+brew ruby
 brew ruby-build
 brew scala
 brew shared-mime-info
