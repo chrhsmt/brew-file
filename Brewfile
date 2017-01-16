@@ -22,6 +22,7 @@ cask monolingual
 cask onyx
 cask snes9x
 cask sublime-text
+cask teamviewer
 cask thunderbird
 cask torbrowser
 cask unity
