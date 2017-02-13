@@ -112,6 +112,8 @@ brew mysql
 brew neon
 brew nkf
 brew nmap
+brew nodeenv
+brew numpy
 brew oniguruma
 brew openexr
 brew openssl
@@ -161,7 +163,6 @@ brew rsync
 brew zlib
 
 tap homebrew/python
-brew numpy
 
 tap homebrew/science
 brew opencv
