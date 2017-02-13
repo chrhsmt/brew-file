@@ -112,6 +112,7 @@ brew mysql
 brew neon
 brew nkf
 brew nmap
+brew node
 brew nodeenv
 brew numpy
 brew oniguruma
@@ -150,6 +151,7 @@ brew wget
 brew wxmac
 brew xz
 brew yajl
+brew yarn
 
 tap homebrew/dupes
 brew apple-gcc42
