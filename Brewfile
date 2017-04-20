@@ -131,7 +131,6 @@ brew postgresql
 brew pstree
 brew python
 brew python3
-brew qt5 --with-qtwebkit
 brew rbenv
 brew readline
 brew ruby
@@ -152,8 +151,6 @@ brew wxmac
 brew xz
 brew yajl
 brew yarn
-
-tap homebrew/dupes
 brew apple-gcc42
 brew gperf
 brew libiconv
@@ -163,6 +160,8 @@ brew make
 brew ncurses
 brew rsync
 brew zlib
+
+tap homebrew/dupes
 
 tap homebrew/python
 
@@ -175,6 +174,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew qt5 --with-qtwebkit
 brew golang
 
 # Cask applications
@@ -195,5 +195,6 @@ appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.1)
 appstore 408981434 iMovie (10.1.4)
 appstore 836500024 WeChat (2.2.0)
+
 # Other commands
 cask_args appdir: '/Applications'
