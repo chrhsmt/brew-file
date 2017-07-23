@@ -12,6 +12,7 @@ cask gitbook-editor
 cask google-chrome
 cask google-japanese-ime
 cask gyazo
+cask handbrake
 cask icompta
 cask intellij-idea
 cask iterm2
@@ -38,6 +39,7 @@ tap homebrew/bundle
 
 tap homebrew/core
 brew aircrack-ng
+brew apple-gcc42
 brew apr
 brew apr-util
 brew atk
@@ -73,6 +75,7 @@ brew gmp
 brew gnu-getopt
 brew gnu-prolog
 brew gobject-introspection
+brew gperf
 brew graphviz --with-bindings --with-freetype --with-librsvg --with-pango
 brew gtk+
 brew harfbuzz
@@ -89,10 +92,12 @@ brew jq
 brew libcroco
 brew libevent
 brew libffi
+brew libiconv
 brew libmagic
 brew libmpc
 brew libogg
 brew libpano
+brew libpcap
 brew libpng
 brew librsvg
 brew libsndfile
@@ -105,10 +110,13 @@ brew libwebsockets
 brew libxml2
 brew libxslt
 brew libyaml
+brew m4
+brew make
 brew mas
 brew maven
 brew mpfr
 brew mysql
+brew ncurses
 brew neon
 brew nkf
 brew nmap
@@ -133,6 +141,7 @@ brew python
 brew python3
 brew rbenv
 brew readline
+brew rsync
 brew ruby
 brew ruby-build
 brew scala
@@ -151,14 +160,6 @@ brew wxmac
 brew xz
 brew yajl
 brew yarn
-brew apple-gcc42
-brew gperf
-brew libiconv
-brew libpcap
-brew m4
-brew make
-brew ncurses
-brew rsync
 brew zlib
 
 tap homebrew/dupes
@@ -174,8 +175,8 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew qt5 --with-qtwebkit
 brew golang
+brew qt5 --with-qtwebkit
 
 # Cask applications
 cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
