@@ -196,6 +196,7 @@ appstore 425424353 The Unarchiver (3.11.1)
 appstore 497799835 Xcode (8.1)
 appstore 408981434 iMovie (10.1.4)
 appstore 836500024 WeChat (2.2.0)
+appstore 1149778308 iCompta 6 (6.0.8)
 
 # Other commands
 cask_args appdir: '/Applications'
