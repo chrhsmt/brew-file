@@ -76,6 +76,7 @@ brew gnu-getopt
 brew gnu-prolog
 brew gobject-introspection
 brew gperf
+brew gradle
 brew graphviz --with-bindings --with-freetype --with-librsvg --with-pango
 brew gtk+
 brew harfbuzz
@@ -124,6 +125,7 @@ brew node
 brew nodeenv
 brew numpy
 brew oniguruma
+brew opencv
 brew openexr
 brew openssl
 brew ossp-uuid
@@ -167,9 +169,11 @@ tap homebrew/dupes
 tap homebrew/python
 
 tap homebrew/science
-brew opencv
 
 tap homebrew/versions
+
+tap pivotal/tap
+brew springboot
 
 tap rcmdnk/file
 brew brew-file
