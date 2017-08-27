@@ -33,6 +33,9 @@ cask wireshark
 cask xld
 cask xquartz
 
+tap ethereum/ethereum
+brew ethereum
+
 tap homebrew/binary
 
 tap homebrew/bundle
