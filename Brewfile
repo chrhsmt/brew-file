@@ -67,6 +67,7 @@ brew flac
 brew fontconfig
 brew freetype
 brew gcc
+brew gd
 brew gdb
 brew gdbm
 brew gdk-pixbuf
@@ -77,6 +78,7 @@ brew glib
 brew gmp
 brew gnu-getopt
 brew gnu-prolog
+brew gnuplot
 brew gobject-introspection
 brew gperf
 brew gradle
@@ -114,6 +116,7 @@ brew libwebsockets
 brew libxml2
 brew libxslt
 brew libyaml
+brew lua
 brew m4
 brew make
 brew mas
@@ -160,6 +163,7 @@ brew unrar
 brew v8
 brew w3m
 brew watch
+brew webp
 brew wget
 brew wxmac
 brew xz
