@@ -118,6 +118,7 @@ brew libxslt
 brew libyaml
 brew lua
 brew m4
+brew mad
 brew make
 brew mas
 brew maven
@@ -154,6 +155,7 @@ brew ruby
 brew ruby-build
 brew scala
 brew shared-mime-info
+brew sox
 brew sqlite
 brew swig
 brew terminal-notifier
