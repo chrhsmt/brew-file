@@ -63,6 +63,7 @@ brew eigen
 brew elixir
 brew erlang
 brew exiftool
+brew ffmpeg
 brew flac
 brew fontconfig
 brew freetype
@@ -95,6 +96,7 @@ brew imagemagick
 brew isl
 brew jpeg
 brew jq
+brew lame
 brew libcroco
 brew libevent
 brew libffi
@@ -168,6 +170,8 @@ brew watch
 brew webp
 brew wget
 brew wxmac
+brew x264
+brew xvid
 brew xz
 brew yajl
 brew yarn
