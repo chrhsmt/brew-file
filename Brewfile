@@ -5,6 +5,7 @@ tap caskroom/cask
 cask android-studio
 cask appcleaner
 cask arduino
+cask brave
 cask calibre
 cask dropbox
 cask firefox
