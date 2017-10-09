@@ -7,6 +7,7 @@ cask appcleaner
 cask arduino
 cask brave
 cask calibre
+cask docker
 cask dropbox
 cask firefox
 cask gitbook-editor
