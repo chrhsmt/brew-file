@@ -23,7 +23,9 @@ cask lastfm
 cask libreoffice
 cask monolingual
 cask onyx
+cask reveal
 cask snes9x
+cask spark-inspector
 cask sublime-text
 cask teamviewer
 cask thunderbird
