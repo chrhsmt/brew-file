@@ -1,49 +1,6 @@
 
 # tap repositories and their packages
 
-tap caskroom/cask
-cask android-studio
-cask appcleaner
-cask arduino
-cask brave
-cask calibre
-cask docker
-cask dropbox
-cask firefox
-cask gitbook-editor
-cask google-chrome
-cask google-japanese-ime
-cask gyazo
-cask handbrake
-cask icompta
-cask intellij-idea
-cask iterm2
-cask java
-cask lastfm
-cask libreoffice
-cask monolingual
-cask onyx
-cask reveal
-cask snes9x
-cask spark-inspector
-cask sublime-text
-cask teamviewer
-cask thunderbird
-cask torbrowser
-cask unity
-cask virtualbox
-cask vlc
-cask wireshark
-cask xld
-cask xquartz
-
-tap ethereum/ethereum
-brew ethereum
-
-tap homebrew/binary
-
-tap homebrew/bundle
-
 tap homebrew/core
 brew aircrack-ng
 brew apple-gcc42
@@ -181,6 +138,10 @@ brew yajl
 brew yarn
 brew zlib
 
+tap homebrew/binary
+
+tap homebrew/bundle
+
 tap homebrew/dupes
 
 tap homebrew/python
@@ -188,6 +149,46 @@ tap homebrew/python
 tap homebrew/science
 
 tap homebrew/versions
+
+tap caskroom/cask
+cask android-studio
+cask appcleaner
+cask arduino
+cask brave
+cask calibre
+cask docker
+cask dropbox
+cask firefox
+cask gitbook-editor
+cask google-chrome
+cask google-japanese-ime
+cask gyazo
+cask handbrake
+cask icompta
+cask intellij-idea
+cask iterm2
+cask java
+cask lastfm
+cask libreoffice
+cask monolingual
+cask onyx
+cask reveal
+cask shadowsocksx-ng
+cask snes9x
+cask spark-inspector
+cask sublime-text
+cask teamviewer
+cask thunderbird
+cask torbrowser
+cask unity
+cask virtualbox
+cask vlc
+cask wireshark
+cask xld
+cask xquartz
+
+tap ethereum/ethereum
+brew ethereum
 
 tap pivotal/tap
 brew springboot
@@ -207,6 +208,8 @@ appstore 836505650 Battery Monitor (2.4)
 appstore 406056744 Evernote (6.10)
 appstore 412448059 ForkLift (2.6.6)
 appstore 682658836 GarageBand (10.1.4)
+appstore 1149778308 iCompta 6 (6.0.8)
+appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.10.2)
 appstore 508957583 Nozbe (3.3)
@@ -214,10 +217,8 @@ appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 803453959 Slack (2.3.3)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 497799835 Xcode (8.1)
-appstore 408981434 iMovie (10.1.4)
 appstore 836500024 WeChat (2.2.0)
-appstore 1149778308 iCompta 6 (6.0.8)
+appstore 497799835 Xcode (8.1)
 
 # Other commands
 cask_args appdir: '/Applications'
