@@ -14,6 +14,8 @@ brew aws-elasticbeanstalk
 brew awscli
 brew bdw-gc
 brew bison
+brew boost
+brew c-ares
 brew cairo
 brew cctools-headers
 brew cmake
@@ -49,16 +51,20 @@ brew gtk+
 brew harfbuzz
 brew heroku
 brew hicolor-icon-theme
+brew httpd
 brew httpie
 brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
 brew isl
+brew jansson
+brew jemalloc
 brew jpeg
 brew jq
 brew lame
 brew libcroco
+brew libev
 brew libevent
 brew libffi
 brew libiconv
@@ -89,6 +95,7 @@ brew mpfr
 brew mysql
 brew ncurses
 brew neon
+brew nghttp2
 brew nkf
 brew nmap
 brew node
@@ -119,6 +126,7 @@ brew ruby-build
 brew scala
 brew shared-mime-info
 brew sox
+brew spdylay
 brew sqlite
 brew swig
 brew terminal-notifier
