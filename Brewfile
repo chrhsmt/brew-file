@@ -64,6 +64,7 @@ brew jpeg
 brew jq
 brew lame
 brew libcroco
+brew libdnet
 brew libev
 brew libevent
 brew libffi
@@ -166,6 +167,7 @@ cask brave
 cask calibre
 cask docker
 cask dropbox
+cask figma
 cask firefox
 cask gitbook-editor
 cask google-chrome
