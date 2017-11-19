@@ -163,6 +163,7 @@ tap caskroom/cask
 cask android-studio
 cask appcleaner
 cask arduino
+cask atom
 cask brave
 cask calibre
 cask docker
