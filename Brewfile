@@ -19,8 +19,6 @@ brew c-ares
 brew cairo
 brew cctools-headers
 brew cmake
-brew cmu-pocketsphinx
-brew cmu-sphinxbase
 brew curl
 brew docker
 brew doxygen
