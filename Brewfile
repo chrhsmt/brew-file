@@ -19,6 +19,8 @@ brew c-ares
 brew cairo
 brew cctools-headers
 brew cmake
+brew cmu-pocketsphinx
+brew cmu-sphinxbase
 brew curl
 brew docker
 brew doxygen
@@ -76,6 +78,7 @@ brew libpano
 brew libpcap
 brew libpng
 brew librsvg
+brew libsamplerate
 brew libsndfile
 brew libtiff
 brew libtool
@@ -206,6 +209,8 @@ brew springboot
 
 tap rcmdnk/file
 brew brew-file
+
+tap watsonbox/cmu-sphinx
 
 # Other Homebrew packages
 brew golang
