@@ -186,6 +186,7 @@ cask lastfm
 cask libreoffice
 cask monolingual
 cask onyx
+cask realm-studio
 cask reveal
 cask shadowsocksx-ng
 cask snes9x
