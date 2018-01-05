@@ -193,6 +193,7 @@ cask snes9x
 cask spark-inspector
 cask sublime-text
 cask teamviewer
+cask telegram-desktop
 cask thunderbird
 cask torbrowser
 cask unity
