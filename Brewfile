@@ -122,6 +122,7 @@ brew postgresql
 brew pstree
 brew python
 brew python3
+brew qt@5.5
 brew rbenv
 brew readline
 brew rsync
