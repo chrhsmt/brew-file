@@ -67,6 +67,7 @@ brew jq
 brew lame
 brew libcroco
 brew libdnet
+brew libdvdcss
 brew libev
 brew libevent
 brew libffi
