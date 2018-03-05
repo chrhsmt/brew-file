@@ -122,7 +122,6 @@ brew portaudio
 brew postgresql
 brew pstree
 brew python
-brew python3
 brew qt@5.5
 brew rbenv
 brew readline
@@ -133,6 +132,7 @@ brew scala
 brew shared-mime-info
 brew sox
 brew spdylay
+brew speedtest-cli
 brew sqlite
 brew swig
 brew terminal-notifier
@@ -218,6 +218,7 @@ tap watsonbox/cmu-sphinx
 
 # Other Homebrew packages
 brew golang
+brew python3
 brew qt5 --with-qtwebkit
 
 # Cask applications
