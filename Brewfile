@@ -221,7 +221,7 @@ brew golang
 brew python3
 brew qt5 --with-qtwebkit
 
-# Cask applications
+# Other Cask applications
 cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
 
 # App Store applications
