@@ -27,6 +27,7 @@ brew doxygen
 brew eigen
 brew elixir
 brew erlang
+brew ethereum
 brew exiftool
 brew ffmpeg
 brew flac
@@ -187,6 +188,7 @@ cask java
 cask lastfm
 cask libreoffice
 cask monolingual
+cask ngrok
 cask onyx
 cask realm-studio
 cask reveal
@@ -206,7 +208,6 @@ cask xld
 cask xquartz
 
 tap ethereum/ethereum
-brew ethereum
 
 tap pivotal/tap
 brew springboot
