@@ -92,6 +92,7 @@ brew libxml2
 brew libxslt
 brew libyaml
 brew lua
+brew luarocks
 brew m4
 brew mad
 brew make
@@ -166,6 +167,23 @@ tap homebrew/science
 tap homebrew/versions
 
 tap caskroom/cask
+
+tap ethereum/ethereum
+
+tap pivotal/tap
+brew springboot
+
+tap rcmdnk/file
+brew brew-file
+
+tap watsonbox/cmu-sphinx
+
+# Other Homebrew packages
+brew golang
+brew python3
+brew qt5 --with-qtwebkit
+
+# Other Cask applications
 cask android-studio
 cask appcleaner
 cask arduino
@@ -181,6 +199,7 @@ cask google-chrome
 cask google-japanese-ime
 cask gyazo
 cask handbrake
+cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
 cask icompta
 cask intellij-idea
 cask iterm2
@@ -206,24 +225,6 @@ cask vlc
 cask wireshark
 cask xld
 cask xquartz
-
-tap ethereum/ethereum
-
-tap pivotal/tap
-brew springboot
-
-tap rcmdnk/file
-brew brew-file
-
-tap watsonbox/cmu-sphinx
-
-# Other Homebrew packages
-brew golang
-brew python3
-brew qt5 --with-qtwebkit
-
-# Other Cask applications
-cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
 
 # App Store applications
 appstore 836505650 Battery Monitor (2.4)
