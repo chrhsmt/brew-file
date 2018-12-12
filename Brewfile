@@ -52,7 +52,6 @@ brew gradle
 brew graphviz --with-bindings --with-freetype --with-librsvg --with-pango
 brew gtk+
 brew harfbuzz
-brew heroku
 brew hicolor-icon-theme
 brew httpd
 brew httpie
@@ -117,14 +116,12 @@ brew p7zip
 brew pandoc
 brew pango
 brew pcre
-brew phantomjs
 brew pixman
 brew pkg-config
 brew portaudio
 brew postgresql
 brew pstree
 brew python
-brew qt@5.5
 brew rbenv
 brew readline
 brew rsync
@@ -137,6 +134,7 @@ brew spdylay
 brew speedtest-cli
 brew sqlite
 brew swig
+brew telnet
 brew terminal-notifier
 brew tmux
 brew tree
@@ -180,8 +178,11 @@ tap watsonbox/cmu-sphinx
 
 # Other Homebrew packages
 brew golang
+brew heroku
+brew phantomjs
 brew python3
 brew qt5 --with-qtwebkit
+brew qt@5.5
 
 # Other Cask applications
 cask android-studio
