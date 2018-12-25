@@ -3,7 +3,6 @@
 
 tap homebrew/core
 brew aircrack-ng
-brew apple-gcc42
 brew apr
 brew apr-util
 brew atk
@@ -177,6 +176,7 @@ brew brew-file
 tap watsonbox/cmu-sphinx
 
 # Other Homebrew packages
+brew apple-gcc42
 brew golang
 brew heroku
 brew phantomjs
@@ -191,6 +191,7 @@ cask arduino
 cask atom
 cask brave
 cask calibre
+cask discord
 cask docker
 cask dropbox
 cask figma
