@@ -150,6 +150,7 @@ brew xz
 brew yajl
 brew yarn
 brew zlib
+brew zsync
 
 tap homebrew/binary
 
