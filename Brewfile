@@ -16,7 +16,6 @@ brew bison
 brew boost
 brew c-ares
 brew cairo
-brew cctools-headers
 brew cmake
 brew cmu-pocketsphinx
 brew cmu-sphinxbase
@@ -121,6 +120,7 @@ brew portaudio
 brew postgresql
 brew pstree
 brew python
+brew qt@5.5
 brew rbenv
 brew readline
 brew rsync
@@ -178,12 +178,12 @@ tap watsonbox/cmu-sphinx
 
 # Other Homebrew packages
 brew apple-gcc42
+brew cctools-headers
 brew golang
 brew heroku
 brew phantomjs
 brew python3
 brew qt5 --with-qtwebkit
-brew qt@5.5
 
 # Other Cask applications
 cask android-studio
