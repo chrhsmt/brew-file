@@ -120,7 +120,6 @@ brew portaudio
 brew postgresql
 brew pstree
 brew python
-brew qt@5.5
 brew rbenv
 brew readline
 brew rsync
@@ -184,6 +183,8 @@ brew heroku
 brew phantomjs
 brew python3
 brew qt5 --with-qtwebkit
+brew qt@5.5
+brew v8-315
 
 # Other Cask applications
 cask android-studio
