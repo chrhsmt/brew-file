@@ -218,6 +218,7 @@ cask libreoffice
 cask monolingual
 cask ngrok
 cask onyx
+cask phantomjs
 cask realm-studio
 cask reveal
 cask shadowsocksx-ng
