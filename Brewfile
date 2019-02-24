@@ -57,6 +57,7 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew imagemagick@6
 brew isl
 brew jansson
 brew jemalloc
@@ -88,6 +89,7 @@ brew libwebsockets
 brew libxml2
 brew libxslt
 brew libyaml
+brew little-cms2
 brew lua
 brew luarocks
 brew m4
@@ -97,6 +99,7 @@ brew mas
 brew maven
 brew mpfr
 brew mysql
+brew mysql@5.6
 brew ncurses
 brew neon
 brew nghttp2
@@ -108,6 +111,7 @@ brew numpy
 brew oniguruma
 brew opencv
 brew openexr
+brew openjpeg
 brew openssl
 brew ossp-uuid
 brew p7zip
@@ -122,6 +126,7 @@ brew pstree
 brew python
 brew rbenv
 brew readline
+brew redis
 brew rsync
 brew ruby
 brew ruby-build
