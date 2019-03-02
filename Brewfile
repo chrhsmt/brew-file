@@ -98,7 +98,6 @@ brew make
 brew mas
 brew maven
 brew mpfr
-brew mysql
 brew mysql@5.6
 brew ncurses
 brew neon
