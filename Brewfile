@@ -20,6 +20,7 @@ brew cmake
 brew cmu-pocketsphinx
 brew cmu-sphinxbase
 brew curl
+brew direnv
 brew docker
 brew doxygen
 brew eigen
