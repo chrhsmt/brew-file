@@ -203,6 +203,7 @@ cask docker
 cask dropbox
 cask figma
 cask firefox
+cask flipper
 cask gitbook-editor
 cask google-chrome
 cask google-japanese-ime
