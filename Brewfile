@@ -225,6 +225,7 @@ cask reveal
 cask shadowsocksx-ng
 cask snes9x
 cask spark-inspector
+cask station
 cask sublime-text
 cask teamviewer
 cask telegram-desktop
