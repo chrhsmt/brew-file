@@ -206,6 +206,7 @@ cask firefox
 cask flipper
 cask gitbook-editor
 cask google-chrome
+cask google-cloud-sdk
 cask google-japanese-ime
 cask gyazo
 cask handbrake
