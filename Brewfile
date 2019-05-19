@@ -15,6 +15,7 @@ brew bdw-gc
 brew bison
 brew boost
 brew c-ares
+brew cabal-install
 brew cairo
 brew cmake
 brew cmu-pocketsphinx
@@ -38,6 +39,7 @@ brew gdb
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew ghc
 brew git
 brew git-flow
 brew glib
@@ -51,6 +53,7 @@ brew gradle
 brew graphviz --with-bindings --with-freetype --with-librsvg --with-pango
 brew gtk+
 brew harfbuzz
+brew haskell-stack
 brew hicolor-icon-theme
 brew httpd
 brew httpie
@@ -169,6 +172,28 @@ tap homebrew/science
 tap homebrew/versions
 
 tap caskroom/cask
+cask android-studio
+cask arduino
+cask calibre
+cask docker
+cask figma
+cask flipper
+cask google-chrome
+cask google-japanese-ime
+cask handbrake
+cask icompta
+cask iterm2
+cask lastfm
+cask monolingual
+cask onyx
+cask realm-studio
+cask shadowsocksx-ng
+cask station
+cask supercollider
+cask telegram-desktop
+cask unity
+cask vlc
+cask xld
 
 tap ethereum/ethereum
 
@@ -192,52 +217,30 @@ brew qt@5.5
 brew v8-315
 
 # Other Cask applications
-cask android-studio
 cask appcleaner
-cask arduino
 cask atom
 cask brave
-cask calibre
 cask discord
-cask docker
 cask dropbox
-cask figma
 cask firefox
-cask flipper
 cask gitbook-editor
-cask google-chrome
 cask google-cloud-sdk
-cask google-japanese-ime
 cask gyazo
-cask handbrake
 cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
-cask icompta
 cask intellij-idea
-cask iterm2
 cask java
-cask lastfm
 cask libreoffice
-cask monolingual
 cask ngrok
-cask onyx
 cask phantomjs
-cask realm-studio
 cask reveal
-cask shadowsocksx-ng
 cask snes9x
 cask spark-inspector
-cask station
 cask sublime-text
-cask supercollider
 cask teamviewer
-cask telegram-desktop
 cask thunderbird
 cask torbrowser
-cask unity
 cask virtualbox
-cask vlc
 cask wireshark
-cask xld
 cask xquartz
 
 # App Store applications
