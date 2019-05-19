@@ -228,6 +228,7 @@ cask snes9x
 cask spark-inspector
 cask station
 cask sublime-text
+cask supercollider
 cask teamviewer
 cask telegram-desktop
 cask thunderbird
