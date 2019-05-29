@@ -10,6 +10,7 @@ brew autoconf
 brew automake
 brew autopano-sift-c
 brew aws-elasticbeanstalk
+brew aws-iam-authenticator
 brew awscli
 brew bdw-gc
 brew bison
@@ -67,6 +68,7 @@ brew jansson
 brew jemalloc
 brew jpeg
 brew jq
+brew kubernetes-cli
 brew lame
 brew libcroco
 brew libdnet
@@ -206,6 +208,7 @@ brew brew-file
 tap watsonbox/cmu-sphinx
 
 tap weaveworks/tap
+brew eksctl
 
 # Other Homebrew packages
 brew apple-gcc42
