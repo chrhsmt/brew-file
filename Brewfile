@@ -205,6 +205,8 @@ brew brew-file
 
 tap watsonbox/cmu-sphinx
 
+tap weaveworks/tap
+
 # Other Homebrew packages
 brew apple-gcc42
 brew cctools-headers
