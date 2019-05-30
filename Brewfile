@@ -158,6 +158,7 @@ brew xvid
 brew xz
 brew yajl
 brew yarn
+brew youtube-dl
 brew zlib
 brew zsync
 
