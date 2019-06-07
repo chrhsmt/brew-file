@@ -208,6 +208,7 @@ tap rcmdnk/file
 brew brew-file
 
 tap v2ray/v2ray
+brew v2ray-core
 
 tap watsonbox/cmu-sphinx
 
