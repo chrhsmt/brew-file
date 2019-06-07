@@ -195,8 +195,9 @@ cask station
 cask supercollider
 cask telegram-desktop
 cask unity
-cask vlc
-cask xld
+cask virtualbox
+cask wireshark
+cask xquartz
 
 tap ethereum/ethereum
 
@@ -205,6 +206,8 @@ brew springboot
 
 tap rcmdnk/file
 brew brew-file
+
+tap v2ray/v2ray
 
 tap watsonbox/cmu-sphinx
 
@@ -245,9 +248,9 @@ cask sublime-text
 cask teamviewer
 cask thunderbird
 cask torbrowser
-cask virtualbox
-cask wireshark
-cask xquartz
+cask v2rayx
+cask vlc
+cask xld
 
 # App Store applications
 appstore 836505650 Battery Monitor (2.4)
