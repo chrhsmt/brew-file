@@ -189,8 +189,9 @@ cask iterm2
 cask lastfm
 cask monolingual
 cask onyx
-cask realm-studio
-cask shadowsocksx-ng
+cask pock
+cask reveal
+cask snes9x
 cask station
 cask supercollider
 cask telegram-desktop
@@ -242,8 +243,8 @@ cask java
 cask libreoffice
 cask ngrok
 cask phantomjs
-cask reveal
-cask snes9x
+cask realm-studio
+cask shadowsocksx-ng
 cask spark-inspector
 cask sublime-text
 cask teamviewer
