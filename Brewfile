@@ -69,6 +69,7 @@ brew jemalloc
 brew jpeg
 brew jq
 brew kubernetes-cli
+brew kubernetes-helm
 brew lame
 brew libcroco
 brew libdnet
@@ -221,6 +222,7 @@ brew apple-gcc42
 brew cctools-headers
 brew golang
 brew heroku
+brew kubectl
 brew phantomjs
 brew python3
 brew qt5 --with-qtwebkit
