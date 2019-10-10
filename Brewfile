@@ -185,9 +185,9 @@ cask flipper
 cask google-chrome
 cask google-japanese-ime
 cask handbrake
-cask icompta
-cask iterm2
-cask lastfm
+cask intellij-idea
+cask java
+cask libreoffice
 cask monolingual
 cask onyx
 cask pock
@@ -240,9 +240,10 @@ cask gitbook-editor
 cask google-cloud-sdk
 cask gyazo
 cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
-cask intellij-idea
-cask java
-cask libreoffice
+cask icompta
+cask iterm2
+cask lastfm
+cask mongodb
 cask ngrok
 cask phantomjs
 cask realm-studio
