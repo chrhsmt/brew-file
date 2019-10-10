@@ -202,6 +202,9 @@ cask xquartz
 
 tap ethereum/ethereum
 
+tap mongodb/brew
+brew mongodb-community-shell
+
 tap pivotal/tap
 brew springboot
 
