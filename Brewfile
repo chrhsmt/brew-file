@@ -119,6 +119,7 @@ brew opencv
 brew openexr
 brew openjpeg
 brew openssl
+brew openssl@1.1
 brew ossp-uuid
 brew p7zip
 brew pandoc
@@ -142,10 +143,12 @@ brew sox
 brew spdylay
 brew speedtest-cli
 brew sqlite
+brew sshfs
 brew swig
 brew telnet
 brew terminal-notifier
 brew tmux
+brew torsocks
 brew tree
 brew unrar
 brew v8
@@ -189,9 +192,10 @@ cask intellij-idea
 cask java
 cask libreoffice
 cask ngrok
-cask phantomjs
-cask realm-studio
-cask shadowsocksx-ng
+cask osxfuse
+cask pock
+cask reveal
+cask snes9x
 cask station
 cask supercollider
 cask telegram-desktop
@@ -200,10 +204,14 @@ cask virtualbox
 cask wireshark
 cask xquartz
 
+tap datawire/blackbird
+brew telepresence
+
 tap ethereum/ethereum
 
 tap mongodb/brew
 brew mongodb-community-shell
+brew mongodb-community@3.4
 
 tap pivotal/tap
 brew springboot
@@ -247,9 +255,9 @@ cask iterm2
 cask lastfm
 cask monolingual
 cask onyx
-cask pock
-cask reveal
-cask snes9x
+cask phantomjs
+cask realm-studio
+cask shadowsocksx-ng
 cask spark-inspector
 cask sublime-text
 cask teamviewer
