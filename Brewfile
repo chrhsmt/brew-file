@@ -66,6 +66,7 @@ brew imagemagick@6
 brew isl
 brew jansson
 brew jemalloc
+brew jenv
 brew jpeg
 brew jq
 brew kubernetes-cli
@@ -169,6 +170,9 @@ brew zsync
 tap homebrew/binary
 
 tap homebrew/bundle
+
+tap homebrew/cask-versions
+cask java11
 
 tap homebrew/dupes
 
