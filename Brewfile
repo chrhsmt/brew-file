@@ -70,7 +70,6 @@ brew jenv
 brew jpeg
 brew jq
 brew kubernetes-cli
-brew kubernetes-helm
 brew lame
 brew libcroco
 brew libdnet
@@ -119,7 +118,6 @@ brew oniguruma
 brew opencv
 brew openexr
 brew openjpeg
-brew openssl
 brew openssl@1.1
 brew ossp-uuid
 brew p7zip
@@ -185,6 +183,7 @@ tap homebrew/versions
 tap caskroom/cask
 cask android-studio
 cask arduino
+cask boostnote
 cask calibre
 cask docker
 cask figma
@@ -237,6 +236,8 @@ brew cctools-headers
 brew golang
 brew heroku
 brew kubectl
+brew kubernetes-helm
+brew openssl
 brew phantomjs
 brew python3
 brew qt5 --with-qtwebkit
