@@ -128,6 +128,7 @@ brew pixman
 brew pkg-config
 brew portaudio
 brew postgresql
+brew postgresql@11
 brew pstree
 brew python
 brew rbenv
@@ -215,6 +216,8 @@ tap ethereum/ethereum
 tap mongodb/brew
 brew mongodb-community-shell
 brew mongodb-community@3.4
+
+tap petere/postgresql
 
 tap pivotal/tap
 brew springboot
