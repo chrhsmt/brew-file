@@ -52,6 +52,7 @@ brew gobject-introspection
 brew gperf
 brew gradle
 brew graphviz --with-bindings --with-freetype --with-librsvg --with-pango
+brew grpcurl
 brew gtk+
 brew harfbuzz
 brew haskell-stack
@@ -66,7 +67,6 @@ brew imagemagick@6
 brew isl
 brew jansson
 brew jemalloc
-brew jenv
 brew jpeg
 brew jq
 brew kubernetes-cli
@@ -105,6 +105,7 @@ brew make
 brew mas
 brew maven
 brew mpfr
+brew mysql
 brew mysql@5.6
 brew ncurses
 brew neon
@@ -129,6 +130,7 @@ brew pkg-config
 brew portaudio
 brew postgresql
 brew postgresql@11
+brew protobuf
 brew pstree
 brew python
 brew rbenv
@@ -186,9 +188,9 @@ cask android-studio
 cask arduino
 cask boostnote
 cask calibre
-cask docker
-cask figma
-cask flipper
+cask discord
+cask dropbox
+cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask handbrake
@@ -251,9 +253,10 @@ brew v8-315
 cask appcleaner
 cask atom
 cask brave
-cask discord
-cask dropbox
-cask firefox
+cask clipy
+cask docker
+cask figma
+cask flipper
 cask gitbook-editor
 cask google-cloud-sdk
 cask gyazo
