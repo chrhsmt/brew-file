@@ -21,6 +21,7 @@ brew cairo
 brew cmake
 brew cmu-pocketsphinx
 brew cmu-sphinxbase
+brew coreutils
 brew curl
 brew direnv
 brew docker
@@ -185,29 +186,50 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask android-studio
+cask appcleaner
 cask arduino
+cask atom
 cask boostnote
 cask calibre
+cask clipy
 cask discord
+cask docker
 cask dropbox
+cask figma
 cask firefox
+cask flipper
 cask google-chrome
+cask google-cloud-sdk
 cask google-japanese-ime
+cask gyazo
 cask handbrake
 cask intellij-idea
+cask iterm2
 cask java
+cask lastfm
 cask libreoffice
+cask monolingual
 cask ngrok
+cask onyx
 cask osxfuse
+cask phantomjs
 cask pock
+cask realm-studio
 cask reveal
+cask shadowsocksx-ng
 cask snes9x
 cask station
+cask sublime-text
 cask supercollider
+cask teamviewer
 cask telegram-desktop
+cask thunderbird
 cask unity
+cask v2rayx
 cask virtualbox
+cask vlc
 cask wireshark
+cask xld
 cask xquartz
 
 tap datawire/blackbird
@@ -250,33 +272,12 @@ brew qt@5.5
 brew v8-315
 
 # Other Cask applications
-cask appcleaner
-cask atom
 cask brave
-cask clipy
-cask docker
-cask figma
-cask flipper
 cask gitbook-editor
-cask google-cloud-sdk
-cask gyazo
 cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
 cask icompta
-cask iterm2
-cask lastfm
-cask monolingual
-cask onyx
-cask phantomjs
-cask realm-studio
-cask shadowsocksx-ng
 cask spark-inspector
-cask sublime-text
-cask teamviewer
-cask thunderbird
 cask torbrowser
-cask v2rayx
-cask vlc
-cask xld
 
 # App Store applications
 appstore 836505650 Battery Monitor (2.4)
