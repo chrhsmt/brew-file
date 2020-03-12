@@ -210,6 +210,7 @@ cask lastfm
 cask libreoffice
 cask monolingual
 cask ngrok
+cask nosql-workbench-for-amazon-dynamodb
 cask onyx
 cask osxfuse
 cask phantomjs
