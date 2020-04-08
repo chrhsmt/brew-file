@@ -44,6 +44,7 @@ brew gettext
 brew ghc
 brew git
 brew git-flow
+brew gitlab-runner
 brew glib
 brew gmp
 brew gnu-getopt
@@ -176,6 +177,8 @@ tap homebrew/bundle
 tap homebrew/cask-versions
 cask java11
 
+tap homebrew/cask-versions
+
 tap homebrew/dupes
 
 tap homebrew/python
@@ -201,6 +204,7 @@ cask flipper
 cask google-chrome
 cask google-cloud-sdk
 cask google-japanese-ime
+cask graphql-playground
 cask gyazo
 cask handbrake
 cask intellij-idea
@@ -265,6 +269,7 @@ brew golang
 brew heroku
 brew kubectl
 brew kubernetes-helm
+brew openjdk@13
 brew openssl
 brew phantomjs
 brew python3
