@@ -237,6 +237,9 @@ cask wireshark
 cask xld
 cask xquartz
 
+tap chef/chef
+cask chefdk
+
 tap datawire/blackbird
 brew telepresence
 
