@@ -231,6 +231,7 @@ cask telegram-desktop
 cask thunderbird
 cask unity
 cask v2rayx
+cask vagrant
 cask virtualbox
 cask vlc
 cask wireshark
