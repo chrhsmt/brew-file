@@ -18,6 +18,7 @@ brew boost
 brew c-ares
 brew cabal-install
 brew cairo
+brew carthage
 brew cmake
 brew cmu-pocketsphinx
 brew cmu-sphinxbase
@@ -44,6 +45,7 @@ brew gettext
 brew ghc
 brew git
 brew git-flow
+brew git-lfs
 brew gitlab-runner
 brew glib
 brew gmp
@@ -148,6 +150,7 @@ brew spdylay
 brew speedtest-cli
 brew sqlite
 brew sshfs
+brew swiftlint
 brew swig
 brew telnet
 brew terminal-notifier
