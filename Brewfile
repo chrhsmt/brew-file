@@ -129,6 +129,7 @@ brew p7zip
 brew pandoc
 brew pango
 brew pcre
+brew peco
 brew pixman
 brew pkg-config
 brew portaudio
