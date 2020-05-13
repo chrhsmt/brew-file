@@ -143,7 +143,6 @@ brew opencv
 brew opencv@2
 brew openexr
 brew openjpeg
-brew openssl@1.1
 brew opus
 brew ossp-uuid
 brew p11-kit
@@ -229,6 +228,7 @@ cask android-studio
 cask appcleaner
 cask arduino
 cask atom
+cask bitbar
 cask boostnote
 cask calibre
 cask clipy
