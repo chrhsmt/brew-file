@@ -13,6 +13,7 @@ brew autopano-sift-c
 brew aws-elasticbeanstalk
 brew aws-iam-authenticator
 brew awscli
+brew bash-completion
 brew bdw-gc
 brew bison
 brew boost
