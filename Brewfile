@@ -30,6 +30,7 @@ brew direnv
 brew docker
 brew doxygen
 brew eigen
+brew eksctl
 brew elixir
 brew erlang
 brew ethereum
@@ -61,6 +62,7 @@ brew gnutls
 brew gobject-introspection
 brew gperf
 brew gradle
+brew grails
 brew graphite2
 brew graphviz --with-bindings --with-freetype --with-librsvg --with-pango
 brew grpcurl
@@ -143,6 +145,7 @@ brew opencore-amr
 brew opencv
 brew opencv@2
 brew openexr
+brew openjdk@11
 brew openjpeg
 brew opus
 brew ossp-uuid
@@ -159,7 +162,6 @@ brew postgresql
 brew postgresql@11
 brew protobuf
 brew pstree
-brew python
 brew python@3.8
 brew rbenv
 brew readline
@@ -302,7 +304,6 @@ brew v2ray-core
 tap watsonbox/cmu-sphinx
 
 tap weaveworks/tap
-brew eksctl
 
 # Other Homebrew packages
 brew apple-gcc42
@@ -314,6 +315,7 @@ brew kubernetes-helm
 brew openjdk@13
 brew openssl
 brew phantomjs
+brew python
 brew python3
 brew qt5 --with-qtwebkit
 brew qt@5.5
