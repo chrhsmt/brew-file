@@ -252,13 +252,13 @@ cask iterm2
 cask java
 cask lastfm
 cask libreoffice
+cask miniconda
 cask monolingual
 cask ngrok
 cask nosql-workbench-for-amazon-dynamodb
 cask onyx
 cask osxfuse
 cask phantomjs
-cask pock
 cask realm-studio
 cask reveal
 cask shadowsocksx-ng
