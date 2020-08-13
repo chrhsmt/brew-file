@@ -147,6 +147,7 @@ brew opencv@2
 brew openexr
 brew openjdk@11
 brew openjpeg
+brew openssl@1.1
 brew opus
 brew ossp-uuid
 brew p11-kit
@@ -162,6 +163,7 @@ brew postgresql
 brew postgresql@11
 brew protobuf
 brew pstree
+brew python@3.7
 brew python@3.8
 brew rbenv
 brew readline
