@@ -126,6 +126,8 @@ brew mad
 brew make
 brew mas
 brew maven
+brew mecab
+brew mecab-ipadic
 brew mpfr
 brew mysql
 brew mysql@5.6
@@ -163,6 +165,7 @@ brew postgresql
 brew postgresql@11
 brew protobuf
 brew pstree
+brew pyenv
 brew python@3.7
 brew python@3.8
 brew rbenv
@@ -216,7 +219,6 @@ tap homebrew/binary
 tap homebrew/bundle
 
 tap homebrew/cask-versions
-cask java11
 
 tap homebrew/cask-versions
 
@@ -237,6 +239,7 @@ cask bitbar
 cask boostnote
 cask calibre
 cask clipy
+cask controlplane
 cask discord
 cask docker
 cask dropbox
@@ -251,7 +254,6 @@ cask gyazo
 cask handbrake
 cask intellij-idea
 cask iterm2
-cask java
 cask lastfm
 cask libreoffice
 cask miniconda
@@ -265,7 +267,6 @@ cask realm-studio
 cask reveal
 cask shadowsocksx-ng
 cask snes9x
-cask station
 cask sublime-text
 cask supercollider
 cask teamviewer
@@ -328,7 +329,10 @@ cask brave
 cask gitbook-editor
 cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb
 cask icompta
+cask java
+cask java11
 cask spark-inspector
+cask station
 cask torbrowser
 
 # App Store applications
