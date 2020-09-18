@@ -245,7 +245,6 @@ cask docker
 cask dropbox
 cask figma
 cask firefox
-cask flipper
 cask google-chrome
 cask google-cloud-sdk
 cask google-japanese-ime
