@@ -272,7 +272,6 @@ cask supercollider
 cask teamviewer
 cask telegram-desktop
 cask thunderbird
-cask unity
 cask v2rayx
 cask virtualbox
 cask visual-studio-code
