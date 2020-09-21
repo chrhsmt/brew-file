@@ -239,7 +239,6 @@ cask bitbar
 cask boostnote
 cask calibre
 cask clipy
-cask controlplane
 cask discord
 cask docker
 cask dropbox
