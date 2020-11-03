@@ -255,6 +255,7 @@ cask intellij-idea
 cask iterm2
 cask lastfm
 cask libreoffice
+cask little-snitch
 cask miniconda
 cask monolingual
 cask ngrok
