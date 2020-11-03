@@ -70,6 +70,7 @@ brew gtk+
 brew harfbuzz
 brew haskell-stack
 brew hicolor-icon-theme
+brew htop
 brew httpd
 brew httpie
 brew hub
@@ -261,7 +262,6 @@ cask nosql-workbench-for-amazon-dynamodb
 cask onyx
 cask osxfuse
 cask phantomjs
-cask realm-studio
 cask reveal
 cask shadowsocksx-ng
 cask snes9x
@@ -328,6 +328,7 @@ cask https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e
 cask icompta
 cask java
 cask java11
+cask realm-studio
 cask spark-inspector
 cask station
 cask torbrowser
