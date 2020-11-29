@@ -6,7 +6,6 @@ brew 'aircrack-ng'
 brew 'aom'
 brew 'apr'
 brew 'apr-util'
-brew 'atk'
 brew 'autoconf'
 brew 'automake'
 brew 'autopano-sift-c'
@@ -14,224 +13,142 @@ brew 'aws-elasticbeanstalk'
 brew 'aws-iam-authenticator'
 brew 'awscli'
 brew 'bash-completion'
-brew 'bdw-gc'
 brew 'bison'
-brew 'boost'
-brew 'c-ares'
 brew 'cabal-install'
-brew 'cairo'
 brew 'carthage'
+brew 'ceres-solver'
+brew 'circleci', args: ['link:', 'false']
 brew 'cmake'
-brew 'cmu-pocketsphinx'
-brew 'cmu-sphinxbase'
 brew 'coreutils'
 brew 'curl'
 brew 'direnv'
-brew 'docker'
+brew 'docker', args: ['link:', 'false']
 brew 'doxygen'
-brew 'eigen'
-brew 'eksctl'
 brew 'elixir'
 brew 'erlang'
-brew 'ethereum'
 brew 'exiftool'
+brew 'fabric'
 brew 'ffmpeg'
 brew 'flac'
-brew 'fontconfig'
-brew 'freetype'
-brew 'frei0r'
-brew 'fribidi'
+brew 'gawk'
 brew 'gcc'
-brew 'gd'
 brew 'gdb'
-brew 'gdbm'
-brew 'gdk-pixbuf'
 brew 'gettext'
 brew 'ghc'
-brew 'giflib'
-brew 'git'
 brew 'git-flow'
 brew 'git-lfs'
-brew 'gitlab-runner'
+brew 'gitlab-runner', args: ['restart_service:', 'true']
 brew 'glib'
-brew 'gmp'
 brew 'gnu-getopt'
 brew 'gnu-prolog'
+brew 'gnu-sed'
 brew 'gnuplot'
-brew 'gnutls'
-brew 'gobject-introspection'
 brew 'gperf'
+brew 'gperftools'
 brew 'gradle'
 brew 'grails'
-brew 'graphite2'
-brew 'graphviz', args: ['with-bindings', 'with-freetype', 'with-librsvg', 'with-pango']
+brew 'graphviz'
 brew 'grpcurl'
 brew 'gtk+'
 brew 'harfbuzz'
 brew 'haskell-stack'
+brew 'helm'
+brew 'help2man'
 brew 'hicolor-icon-theme'
 brew 'htop'
 brew 'httpd'
 brew 'httpie'
 brew 'hub'
-brew 'icu4c'
-brew 'ilmbase'
 brew 'imagemagick'
 brew 'imagemagick@6'
-brew 'isl'
-brew 'jansson'
-brew 'jemalloc'
-brew 'jpeg'
 brew 'jq'
 brew 'kubernetes-cli'
-brew 'lame'
-brew 'leptonica'
 brew 'libass'
-brew 'libbluray'
 brew 'libcroco'
 brew 'libdnet'
 brew 'libdvdcss'
-brew 'libev'
-brew 'libevent'
-brew 'libffi'
 brew 'libiconv'
-brew 'libidn2'
 brew 'libmagic'
-brew 'libmpc'
-brew 'libogg'
 brew 'libpano'
 brew 'libpcap'
-brew 'libpng'
-brew 'librsvg'
-brew 'libsamplerate'
-brew 'libsndfile'
-brew 'libsoxr'
-brew 'libtasn1'
-brew 'libtiff'
 brew 'libtool'
-brew 'libunistring'
 brew 'libunwind-headers'
-brew 'libvidstab'
-brew 'libvorbis'
-brew 'libvpx'
 brew 'libwebsockets'
 brew 'libxml2'
 brew 'libxslt'
-brew 'libyaml'
-brew 'little-cms2'
-brew 'lua'
 brew 'luarocks'
-brew 'lzo'
 brew 'm4'
-brew 'mad'
 brew 'make'
 brew 'mas'
 brew 'maven'
 brew 'mecab'
 brew 'mecab-ipadic'
-brew 'mpfr'
 brew 'mysql'
 brew 'mysql@5.6'
 brew 'ncurses'
 brew 'neon'
-brew 'nettle'
-brew 'nghttp2'
 brew 'nkf'
 brew 'nmap'
-brew 'node'
 brew 'nodeenv'
 brew 'numpy'
-brew 'numpy@1.16'
 brew 'oniguruma'
-brew 'openblas'
-brew 'opencore-amr'
 brew 'opencv'
 brew 'opencv@2'
-brew 'openexr'
+brew 'openjdk'
 brew 'openjdk@11'
-brew 'openjpeg'
 brew 'openssl@1.1'
-brew 'opus'
 brew 'ossp-uuid'
-brew 'p11-kit'
 brew 'p7zip'
 brew 'pandoc'
 brew 'pango'
-brew 'pcre'
 brew 'peco'
-brew 'pixman'
 brew 'pkg-config'
 brew 'portaudio'
 brew 'postgresql'
+brew 'postgresql@10'
 brew 'postgresql@11'
-brew 'protobuf'
 brew 'pstree'
 brew 'pyenv'
-brew 'python@3.7'
-brew 'python@3.8'
+brew 'qt'
 brew 'rbenv'
 brew 'readline'
 brew 'redis'
 brew 'rsync'
-brew 'rtmpdump'
-brew 'rubberband'
-brew 'ruby'
 brew 'ruby-build'
 brew 'scala'
-brew 'sdl2'
 brew 'shared-mime-info'
-brew 'snappy'
 brew 'sox'
-brew 'spdylay'
 brew 'speedtest-cli'
-brew 'speex'
-brew 'sqlite'
-brew 'srt'
-brew 'sshfs'
+brew 'sphinx-doc'
 brew 'swiftlint'
 brew 'swig'
 brew 'telnet'
 brew 'terminal-notifier'
-brew 'tesseract'
-brew 'theora'
+brew 'tig'
 brew 'tmux'
-brew 'torsocks'
 brew 'tree'
-brew 'unbound'
 brew 'unrar'
 brew 'v8'
+brew 'v8@3.15'
 brew 'w3m'
 brew 'watch'
-brew 'webp'
+brew 'watsonbox/cmu-sphinx/cmu-pocketsphinx', args: ['HEAD']
+brew 'watsonbox/cmu-sphinx/cmu-sphinxbase', args: ['HEAD']
+brew 'weaveworks/tap/eksctl'
 brew 'wget'
-brew 'wxmac'
-brew 'x264'
-brew 'x265'
-brew 'xvid'
-brew 'xz'
 brew 'yajl'
 brew 'yarn'
 brew 'youtube-dl'
 brew 'zlib'
 brew 'zsync'
 
-tap 'homebrew/binary'
-
 tap 'homebrew/bundle'
 
 tap 'homebrew/cask-versions'
 
-tap 'homebrew/cask-versions'
+tap 'homebrew/services'
 
-tap 'homebrew/dupes'
-
-tap 'homebrew/python'
-
-tap 'homebrew/science'
-
-tap 'homebrew/versions'
-
-tap 'caskroom/cask'
+tap 'homebrew/cask'
 cask 'android-studio'
 cask 'appcleaner'
 cask 'arduino'
@@ -245,6 +162,7 @@ cask 'docker'
 cask 'dropbox'
 cask 'figma'
 cask 'firefox'
+cask 'geekbench'
 cask 'google-chrome'
 cask 'google-cloud-sdk'
 cask 'google-japanese-ime'
@@ -275,79 +193,79 @@ cask 'virtualbox'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'wireshark'
-cask 'xld'
 cask 'xquartz'
+cask 'zoomus'
+
+tap 'caskroom/cask'
 
 tap 'chef/chef'
 cask 'chefdk'
 
 tap 'datawire/blackbird'
-brew 'telepresence'
+brew 'datawire/blackbird/telepresence'
 
 tap 'ethereum/ethereum'
 
+tap 'heroku/brew'
+brew 'heroku/brew/heroku'
+
 tap 'mongodb/brew'
-brew 'mongodb-community-shell'
-brew 'mongodb-community@3.4'
+brew 'mongodb/brew/mongodb-community-shell'
+brew 'mongodb/brew/mongodb-community@3.4'
 
 tap 'petere/postgresql'
 
 tap 'pivotal/tap'
-brew 'springboot'
+brew 'pivotal/tap/springboot'
 
 tap 'rcmdnk/file'
-brew 'brew-file'
+brew 'rcmdnk/file/brew-file'
 
 tap 'v2ray/v2ray'
-brew 'v2ray-core'
+brew 'v2ray/v2ray/v2ray-core'
 
 tap 'watsonbox/cmu-sphinx'
 
 tap 'weaveworks/tap'
 
 # Other Homebrew packages
-brew 'apple-gcc42'
-brew 'cctools-headers'
-brew 'geekbench'
-brew 'golang'
-brew 'heroku'
-brew 'kubectl'
-brew 'kubernetes-helm'
-brew 'openjdk@13'
-brew 'openssl'
-brew 'phantomjs'
-brew 'python'
-brew 'python3'
-brew 'qt5', args: ['with-qtwebkit']
-brew 'qt@5.5'
-brew 'v8-315'
+brew 'wpscan'
 
 # Other Cask applications
 cask 'brave'
 cask 'gitbook-editor'
-cask 'https://raw.githubusercontent.com/caskroom/homebrew-cask/56386141b55a973d3e56d0d6c8ed6de180404568/Casks/audacity.rb'
-cask 'icompta'
 cask 'java'
 cask 'java11'
 cask 'nosql-workbench-for-amazon-dynamodb'
 cask 'realm-studio'
-cask 'spark-inspector'
 cask 'station'
 cask 'torbrowser'
 
 # App Store applications
-mas 'Battery', id: (2.4)',
-mas 'Evernote', id: id:
-mas 'ForkLift', id: id:
-mas 'GarageBand', id: id:
-mas 'iCompta', id: (6.0.8)',
-mas 'iMovie', id: id:
-mas 'Keynote', id: id:
-mas 'LINE', id: id:
-mas 'Nozbe', id: id:
-mas 'Numbers', id: id:
-mas 'Pages', id: id:
-mas 'Slack', id: id:
-mas 'The', id: (3.11.1)',
-mas 'WeChat', id: id:
-mas 'Xcode', id: id:
+mas '1Blocker', id: 1107421413
+mas 'AdBlock', id: 1402042596
+mas 'Adblock', id: id:
+mas 'AdBlock', id: id:
+mas 'AdGuard', id: Safari",
+mas 'Battery', id: id:
+mas 'DevCleaner', id: 1388020431
+mas 'ForkLift', id: 412448059
+mas 'GarageBand', id: 682658836
+mas 'Ghostery', id: id:
+mas 'iCompta', id: id:
+mas 'iMovie', id: 408981434
+mas 'Keeper', id: Manager",
+mas 'Keynote', id: 409183694
+mas 'Kindle', id: 405399194
+mas 'LINE', id: 539883307
+mas 'Notability', id: 736189492
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'Pocket', id: 568494494
+mas 'QQ', id: 451108668
+mas 'QQMusic', id: 595615424
+mas 'Save', id: Pocket",
+mas 'Slack', id: 803453959
+mas 'The', id: id:
+mas 'WeChat', id: 836500024
+mas 'Xcode', id: 497799835
