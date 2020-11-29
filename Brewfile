@@ -89,6 +89,7 @@ brew 'ncurses'
 brew 'neon'
 brew 'nkf'
 brew 'nmap'
+brew 'nodebrew'
 brew 'nodeenv'
 brew 'numpy'
 brew 'oniguruma'
@@ -194,7 +195,6 @@ cask 'visual-studio-code'
 cask 'vlc'
 cask 'wireshark'
 cask 'xquartz'
-cask 'zoomus'
 
 tap 'caskroom/cask'
 
@@ -240,6 +240,7 @@ cask 'nosql-workbench-for-amazon-dynamodb'
 cask 'realm-studio'
 cask 'station'
 cask 'torbrowser'
+cask 'zoomus'
 
 # App Store applications
 mas '1Blocker', id: 1107421413
