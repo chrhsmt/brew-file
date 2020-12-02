@@ -1,4 +1,3 @@
-tap "caskroom/cask"
 tap "chef/chef"
 tap "datawire/blackbird"
 tap "ethereum/ethereum"
