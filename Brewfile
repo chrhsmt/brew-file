@@ -151,6 +151,7 @@ tap 'homebrew/cask-versions'
 tap 'homebrew/services'
 
 tap 'homebrew/cask'
+cask 'amazon-music'
 cask 'android-studio'
 cask 'appcleaner'
 cask 'arduino'
