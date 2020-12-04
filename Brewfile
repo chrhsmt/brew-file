@@ -227,6 +227,9 @@ tap 'watsonbox/cmu-sphinx'
 
 tap 'weaveworks/tap'
 
+# Other Homebrew packages
+brew 'biscuit'
+
 # App Store applications
 mas '1Blocker', id: 1107421413
 mas 'AdBlock', id: 1402042596
