@@ -17,12 +17,12 @@ brew 'bison'
 brew 'cabal-install'
 brew 'carthage'
 brew 'ceres-solver'
-brew 'circleci', args: ['link:', 'false']
+brew 'circleci'
 brew 'cmake'
 brew 'coreutils'
 brew 'curl'
 brew 'direnv'
-brew 'docker', args: ['link:', 'false']
+brew 'docker'
 brew 'doxygen'
 brew 'elixir'
 brew 'erlang'
@@ -37,7 +37,7 @@ brew 'gettext'
 brew 'ghc'
 brew 'git-flow'
 brew 'git-lfs'
-brew 'gitlab-runner', args: ['restart_service:', 'true']
+brew 'gitlab-runner'
 brew 'glib'
 brew 'gnu-getopt'
 brew 'gnu-prolog'
@@ -228,23 +228,17 @@ tap 'watsonbox/cmu-sphinx'
 
 tap 'weaveworks/tap'
 
-# Other Homebrew packages
-brew 'biscuit'
-
 # App Store applications
 mas '1Blocker', id: 1107421413
 mas 'AdBlock', id: 1402042596
-mas 'Adblock', id: id:
-mas 'AdBlock', id: id:
-mas 'AdGuard', id: Safari",
-mas 'Battery', id: id:
+mas 'AdGuard', id: 1440147259
 mas 'DevCleaner', id: 1388020431
 mas 'ForkLift', id: 412448059
 mas 'GarageBand', id: 682658836
-mas 'Ghostery', id: id:
-mas 'iCompta', id: id:
+mas 'Ghostery', id: 1436953057
+mas 'iCompta', id: 1149778308
 mas 'iMovie', id: 408981434
-mas 'Keeper', id: Manager",
+mas 'Keeper', id: 414781829
 mas 'Keynote', id: 409183694
 mas 'Kindle', id: 405399194
 mas 'LINE', id: 539883307
@@ -254,8 +248,7 @@ mas 'Pages', id: 409201541
 mas 'Pocket', id: 568494494
 mas 'QQ', id: 451108668
 mas 'QQMusic', id: 595615424
-mas 'Save', id: Pocket",
+mas 'Save to Pocket', id: 1477385213
 mas 'Slack', id: 803453959
-mas 'The', id: id:
 mas 'WeChat', id: 836500024
 mas 'Xcode', id: 497799835
