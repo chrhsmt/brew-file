@@ -129,7 +129,6 @@ brew 'terminal-notifier'
 brew 'tig'
 brew 'tmux'
 brew 'tree'
-brew 'unrar'
 brew 'v8'
 brew 'v8@3.15'
 brew 'w3m'
@@ -182,6 +181,7 @@ cask 'monolingual'
 cask 'ngrok'
 cask 'osxfuse'
 cask 'phantomjs'
+cask 'plan'
 cask 'reveal'
 cask 'shadowsocksx-ng'
 cask 'snes9x'
@@ -227,6 +227,9 @@ brew 'v2ray/v2ray/v2ray-core'
 tap 'watsonbox/cmu-sphinx'
 
 tap 'weaveworks/tap'
+
+# Other Homebrew packages
+brew 'unrar'
 
 # App Store applications
 mas '1Blocker', id: 1107421413
