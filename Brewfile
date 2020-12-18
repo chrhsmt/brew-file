@@ -234,8 +234,7 @@ brew 'unrar'
 
 # App Store applications
 mas '1Blocker', id: 1107421413
-mas 'AdBlock', id: 1402042596
-mas 'AdGuard', id: 1440147259
+#mas 'AdBlock', id: 1402042596
 mas 'DevCleaner', id: 1388020431
 mas 'ForkLift', id: 412448059
 mas 'GarageBand', id: 682658836
