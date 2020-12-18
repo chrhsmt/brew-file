@@ -230,11 +230,11 @@ tap 'watsonbox/cmu-sphinx'
 tap 'weaveworks/tap'
 
 # Other Homebrew packages
+brew 'google-japanese-ime'
 brew 'unrar'
 
 # App Store applications
 mas '1Blocker', id: 1107421413
-#mas 'AdBlock', id: 1402042596
 mas 'DevCleaner', id: 1388020431
 mas 'ForkLift', id: 412448059
 mas 'GarageBand', id: 682658836
@@ -251,7 +251,7 @@ mas 'Pages', id: 409201541
 mas 'Pocket', id: 568494494
 mas 'QQ', id: 451108668
 mas 'QQMusic', id: 595615424
-mas 'Save to Pocket', id: 1477385213
+mas 'Save', id: Pocket',
 mas 'Slack', id: 803453959
 mas 'WeChat', id: 836500024
 mas 'Xcode', id: 497799835
