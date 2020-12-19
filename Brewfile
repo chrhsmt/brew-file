@@ -231,6 +231,7 @@ tap 'weaveworks/tap'
 
 # Other Homebrew packages
 brew 'google-japanese-ime'
+brew 'notion'
 brew 'unrar'
 
 # App Store applications
