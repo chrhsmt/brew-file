@@ -1,4 +1,3 @@
-
 # tap repositories and their packages
 
 tap 'homebrew/core'
@@ -33,6 +32,7 @@ brew 'flac'
 brew 'gawk'
 brew 'gcc'
 brew 'gdb'
+brew 'gdbm'
 brew 'gettext'
 brew 'ghc'
 brew 'git-flow'
@@ -142,6 +142,10 @@ brew 'yarn'
 brew 'youtube-dl'
 brew 'zlib'
 brew 'zsync'
+brew 'brew-file'
+brew 'python@3.9'
+brew 'sqlite'
+brew 'xz'
 
 tap 'homebrew/bundle'
 
@@ -155,6 +159,7 @@ cask 'android-studio'
 cask 'appcleaner'
 cask 'arduino'
 cask 'atom'
+cask 'biscuit'
 cask 'bitbar'
 cask 'brave-browser'
 cask 'calibre'
@@ -236,24 +241,27 @@ brew 'toggl-track'
 brew 'unrar'
 
 # App Store applications
-mas '1Blocker', id: 1107421413
-mas 'DevCleaner', id: 1388020431
-mas 'ForkLift', id: 412448059
-mas 'GarageBand', id: 682658836
-mas 'Ghostery', id: 1436953057
-mas 'iCompta', id: 1149778308
-mas 'iMovie', id: 408981434
-mas 'Keeper', id: 414781829
-mas 'Keynote', id: 409183694
-mas 'Kindle', id: 405399194
-mas 'LINE', id: 539883307
-mas 'Notability', id: 736189492
-mas 'Numbers', id: 409203825
-mas 'Pages', id: 409201541
-mas 'Pocket', id: 568494494
-mas 'QQ', id: 451108668
-mas 'QQMusic', id: 595615424
-mas 'Save', id: Pocket',
-mas 'Slack', id: 803453959
-mas 'WeChat', id: 836500024
-mas 'Xcode', id: 497799835
+mas '1Blocker (3.12)', id: 1107421413
+mas 'Adblock Plus (2.1.7)', id: 1432731683
+mas 'AdBlock Pro (8.1.3)', id: 1018301773
+mas 'Battery Monitor (2.4.4)', id: 836505650
+mas 'DevCleaner (2.2.0)', id: 1388020431
+mas 'ForkLift (2.6.6)', id: 412448059
+mas 'GarageBand (10.4.2)', id: 682658836
+mas 'Ghostery Lite (1.1.0)', id: 1436953057
+mas 'iCompta 6 (6.0.46)', id: 1149778308
+mas 'iMovie (10.2.2)', id: 408981434
+mas 'Keeper Password Manager (15.0.11)', id: 414781829
+mas 'Keynote (10.3.8)', id: 409183694
+mas 'Kindle (1.30.0)', id: 405399194
+mas 'LINE (6.5.2)', id: 539883307
+mas 'Notability (4.4.3)', id: 736189492
+mas 'Numbers (10.3.5)', id: 409203825
+mas 'Pages (10.3.5)', id: 409201541
+mas 'Pocket (1.8.6)', id: 568494494
+mas 'QQ (6.7.1)', id: 451108668
+mas 'QQ音乐 (7.3.0)', id: 595615424
+mas 'Save to Pocket (1.1)', id: 1477385213
+mas 'Slack (4.12.0)', id: 803453959
+mas 'The Unarchiver (4.2.4)', id: 425424353
+mas 'WeChat (2.5.0)', id: 836500024
