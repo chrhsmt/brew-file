@@ -1,4 +1,3 @@
-
 # tap repositories and their packages
 
 tap 'homebrew/core'
@@ -278,6 +277,10 @@ brew 'zeromq'
 brew 'zlib'
 brew 'zstd'
 brew 'zsync'
+brew 'brew-file'
+brew 'python@3.9'
+brew 'sqlite'
+brew 'xz'
 
 tap 'homebrew/bundle'
 
@@ -290,7 +293,9 @@ cask 'android-studio'
 cask 'appcleaner'
 cask 'arduino'
 cask 'atom'
-cask 'boostnote'
+cask 'biscuit'
+cask 'bitbar'
+cask 'brave-browser'
 cask 'calibre'
 cask 'choosy'
 cask 'clipy'
@@ -367,6 +372,9 @@ tap 'weaveworks/tap'
 
 # Other Homebrew packages
 brew 'python@2'
+brew 'google-japanese-ime'
+brew 'notion'
+brew 'toggl-track'
 brew 'unrar'
 brew 'wpscan'
 
@@ -405,3 +413,4 @@ mas 'Slack (4.12.2)', id: 803453959
 mas 'The Unarchiver (4.2.4)', id: 425424353
 mas 'WeChat (2.5.0)', id: 836500024
 mas 'Xcode (12.3)', id: 497799835
+mas 'QQ音乐 (7.3.0)', id: 595615424
