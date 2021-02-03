@@ -1,3 +1,4 @@
+
 # tap repositories and their packages
 
 tap 'homebrew/core'
@@ -247,6 +248,7 @@ brew 'tbb'
 brew 'telnet'
 brew 'terminal-notifier'
 brew 'tesseract'
+brew 'the_silver_searcher'
 brew 'theora'
 brew 'tig'
 brew 'tmux'
@@ -277,10 +279,6 @@ brew 'zeromq'
 brew 'zlib'
 brew 'zstd'
 brew 'zsync'
-brew 'brew-file'
-brew 'python@3.9'
-brew 'sqlite'
-brew 'xz'
 
 tap 'homebrew/bundle'
 
@@ -293,9 +291,7 @@ cask 'android-studio'
 cask 'appcleaner'
 cask 'arduino'
 cask 'atom'
-cask 'biscuit'
-cask 'bitbar'
-cask 'brave-browser'
+cask 'boostnote'
 cask 'calibre'
 cask 'choosy'
 cask 'clipy'
@@ -372,9 +368,6 @@ tap 'weaveworks/tap'
 
 # Other Homebrew packages
 brew 'python@2'
-brew 'google-japanese-ime'
-brew 'notion'
-brew 'toggl-track'
 brew 'unrar'
 brew 'wpscan'
 
@@ -389,7 +382,7 @@ cask 'station'
 cask 'torbrowser'
 
 # App Store applications
-mas '1Blocker (3.12.1)', id: 1107421413
+mas '1Blocker (3.13)', id: 1107421413
 mas 'Adblock Plus (2.1.7)', id: 1432731683
 mas 'AdBlock Pro (8.1.3)', id: 1018301773
 mas 'Battery Monitor (2.4.4)', id: 836505650
@@ -401,7 +394,7 @@ mas 'iCompta 6 (6.0.46)', id: 1149778308
 mas 'Keeper Password Manager (15.0.13)', id: 414781829
 mas 'Keynote (10.3.9)', id: 409183694
 mas 'Kindle (1.30.0)', id: 405399194
-mas 'LINE (6.5.4)', id: 539883307
+mas 'LINE (6.6.0)', id: 539883307
 mas 'Notability (4.4.3)', id: 736189492
 mas 'Numbers (10.3.9)', id: 409203825
 mas 'Pages (10.3.9)', id: 409201541
@@ -411,6 +404,6 @@ mas 'QQMusic (6.3.5)', id: 595615424
 mas 'Save to Pocket (1.1)', id: 1477385213
 mas 'Slack (4.12.2)', id: 803453959
 mas 'The Unarchiver (4.2.4)', id: 425424353
-mas 'WeChat (2.5.0)', id: 836500024
-mas 'Xcode (12.3)', id: 497799835
-mas 'QQ音乐 (7.3.0)', id: 595615424
+mas 'WeChat (2.6.1)', id: 836500024
+mas 'Xcode (12.4)', id: 497799835
+mas 'Tailscale (1.2.4)', id: 1475387142 
